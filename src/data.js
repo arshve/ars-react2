@@ -52,7 +52,7 @@ export const tours = [
     id: 2,
     image: tour2,
     date: 'october 1th, 2020',
-    title: 'best of java',
+    title: 'best of java (Probably)',
     info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
     location: 'indonesia',
     duration: 11,
